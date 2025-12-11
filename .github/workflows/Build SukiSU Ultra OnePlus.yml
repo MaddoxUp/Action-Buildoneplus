@@ -43,6 +43,7 @@ on:
           - oneplus_pad2_mt6991_b
           - oneplus_ace_6
           - oneplus_15
+          - oneplus_ace5_pro
       MANAGER_SOURCE:
         type: choice
         description: "管理器调用方向"
